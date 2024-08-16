@@ -1,0 +1,2722 @@
+.react-saa-s-boilerplate-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-react-saa-s-boilerplate {
+  width: 100%;
+  height: 9346px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.react-saa-s-boilerplate-frame2147226382 {
+  gap: 42px;
+  top: 247px;
+  left: 504px;
+  width: 591px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-frame2147226383 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-heading1 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text100 {
+  color: var(--dl-color-neutralcolors-dark2);
+  width: 670px;
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-sub-heading1 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text102 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 670px;
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-sub-heading2 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text104 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 670px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-line1 {
+  width: 591px;
+  height: 1px;
+  align-self: stretch;
+}
+.react-saa-s-boilerplate-frame2147226376 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-subheading1 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.react-saa-s-boilerplate-text106 {
+  color: var(--dl-color-neutralcolors-dark2);
+  width: 591px;
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-frame21472263751 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-heading2 {
+  gap: 10px;
+  width: 785px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text108 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text109 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-text111 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-code-card10 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-frame214722637310 {
+  gap: 4px;
+  display: flex;
+  padding: 12px 32px;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: flex-end;
+}
+.react-saa-s-boilerplate-frame214722637410 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.react-saa-s-boilerplate-iconoirterminal10 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-text113 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-copy10 {
+  gap: 4px;
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: center;
+}
+.react-saa-s-boilerplate-icon10 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-code10 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 32px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text115 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-rectangle402910 {
+  top: -156px;
+  left: 0px;
+  width: 8px;
+  height: 629px;
+  z-index: 3;
+  position: absolute;
+}
+.react-saa-s-boilerplate-subtext10 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text133 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 785px;
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text134 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-text136 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-code-card11 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-frame214722637311 {
+  gap: 4px;
+  display: flex;
+  padding: 12px 32px;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: flex-end;
+}
+.react-saa-s-boilerplate-frame214722637411 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.react-saa-s-boilerplate-iconoirterminal11 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-text138 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-copy11 {
+  gap: 4px;
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: center;
+}
+.react-saa-s-boilerplate-icon11 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-code11 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 32px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text140 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-rectangle402911 {
+  top: -251px;
+  left: 0px;
+  width: 8px;
+  height: 629px;
+  z-index: 3;
+  position: absolute;
+}
+.react-saa-s-boilerplate-subtext11 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text144 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 785px;
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text145 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-text147 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-code-card12 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-frame214722637312 {
+  gap: 4px;
+  display: flex;
+  padding: 12px 32px;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: flex-end;
+}
+.react-saa-s-boilerplate-frame214722637412 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.react-saa-s-boilerplate-iconoirterminal12 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-text149 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-copy12 {
+  gap: 4px;
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: center;
+}
+.react-saa-s-boilerplate-icon12 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-code12 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 32px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text151 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-rectangle402912 {
+  top: -264px;
+  left: 0px;
+  width: 8px;
+  height: 629px;
+  z-index: 3;
+  position: absolute;
+}
+.react-saa-s-boilerplate-frame2147226384 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-subheading2 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text153 {
+  color: var(--dl-color-neutralcolors-dark2);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-frame21472263752 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-heading3 {
+  gap: 10px;
+  width: 785px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text155 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text156 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-text158 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-code-card13 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-frame214722637313 {
+  gap: 4px;
+  display: flex;
+  padding: 12px 32px;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: flex-end;
+}
+.react-saa-s-boilerplate-frame214722637413 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.react-saa-s-boilerplate-iconoirterminal13 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-text160 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-copy13 {
+  gap: 4px;
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: center;
+}
+.react-saa-s-boilerplate-icon13 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-code13 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 32px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text162 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 635px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-rectangle402913 {
+  top: -143px;
+  left: 0px;
+  width: 8px;
+  height: 629px;
+  z-index: 3;
+  position: absolute;
+}
+.react-saa-s-boilerplate-subtext12 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text182 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text183 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-text185 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-code-card14 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-frame214722637314 {
+  gap: 4px;
+  display: flex;
+  padding: 12px 32px;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: flex-end;
+}
+.react-saa-s-boilerplate-frame214722637414 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.react-saa-s-boilerplate-iconoirterminal14 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-text187 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-copy14 {
+  gap: 4px;
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: center;
+}
+.react-saa-s-boilerplate-icon14 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-code14 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 32px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text189 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 635px;
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-rectangle402914 {
+  top: -143px;
+  left: 0px;
+  width: 8px;
+  height: 629px;
+  z-index: 3;
+  position: absolute;
+}
+.react-saa-s-boilerplate-subtext13 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text209 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 785px;
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text210 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-text212 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-code-card15 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-frame214722637315 {
+  gap: 4px;
+  display: flex;
+  padding: 12px 32px;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: flex-end;
+}
+.react-saa-s-boilerplate-frame214722637415 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.react-saa-s-boilerplate-iconoirterminal15 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-text214 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-copy15 {
+  gap: 4px;
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: center;
+}
+.react-saa-s-boilerplate-icon15 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-code15 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 32px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text216 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 635px;
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-rectangle402915 {
+  top: -102px;
+  left: 0px;
+  width: 8px;
+  height: 629px;
+  z-index: 3;
+  position: absolute;
+}
+.react-saa-s-boilerplate-frame2147226385 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-subheading3 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text242 {
+  color: var(--dl-color-neutralcolors-dark2);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-frame21472263753 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-subtext14 {
+  gap: 10px;
+  width: 785px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text244 {
+  color: var(--dl-color-neutralcolors-dark2);
+  width: 785px;
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text245 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-text247 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-code-card16 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-frame214722637316 {
+  gap: 4px;
+  display: flex;
+  padding: 12px 32px;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: flex-end;
+}
+.react-saa-s-boilerplate-frame214722637416 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.react-saa-s-boilerplate-iconoirterminal16 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-text249 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-copy16 {
+  gap: 4px;
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: center;
+}
+.react-saa-s-boilerplate-icon16 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-code16 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 32px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text251 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 635px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-rectangle402916 {
+  top: -48px;
+  left: 0px;
+  width: 8px;
+  height: 629px;
+  z-index: 3;
+  position: absolute;
+}
+.react-saa-s-boilerplate-subtext15 {
+  gap: 10px;
+  width: 785px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text285 {
+  color: var(--dl-color-neutralcolors-dark2);
+  width: 785px;
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text286 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-text288 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-code-card17 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-frame214722637317 {
+  gap: 4px;
+  display: flex;
+  padding: 12px 32px;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: flex-end;
+}
+.react-saa-s-boilerplate-frame214722637417 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.react-saa-s-boilerplate-iconoirterminal17 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-text290 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-copy17 {
+  gap: 4px;
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: center;
+}
+.react-saa-s-boilerplate-icon17 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-code17 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 32px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text292 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 635px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-rectangle402917 {
+  top: -264px;
+  left: 0px;
+  width: 8px;
+  height: 629px;
+  z-index: 3;
+  position: absolute;
+}
+.react-saa-s-boilerplate-code-card18 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-frame214722637318 {
+  gap: 4px;
+  display: flex;
+  padding: 12px 32px;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: flex-end;
+}
+.react-saa-s-boilerplate-frame214722637418 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.react-saa-s-boilerplate-iconoirterminal18 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-text294 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-copy18 {
+  gap: 4px;
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: center;
+}
+.react-saa-s-boilerplate-icon18 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-code18 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 32px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text296 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 635px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-rectangle402918 {
+  top: -62px;
+  left: 0px;
+  width: 8px;
+  height: 629px;
+  z-index: 3;
+  position: absolute;
+}
+.react-saa-s-boilerplate-subtext16 {
+  gap: 10px;
+  width: 785px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text328 {
+  color: var(--dl-color-neutralcolors-dark2);
+  width: 785px;
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text329 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-text331 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-code-card19 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-frame214722637319 {
+  gap: 4px;
+  display: flex;
+  padding: 12px 32px;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: flex-end;
+}
+.react-saa-s-boilerplate-frame214722637419 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.react-saa-s-boilerplate-iconoirterminal19 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-text333 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-copy19 {
+  gap: 4px;
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: center;
+}
+.react-saa-s-boilerplate-icon19 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-code19 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 32px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text335 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 635px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-rectangle402919 {
+  top: 276px;
+  left: 0px;
+  width: 8px;
+  height: 629px;
+  z-index: 3;
+  position: absolute;
+}
+.react-saa-s-boilerplate-subtext17 {
+  gap: 10px;
+  width: 785px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text415 {
+  color: var(--dl-color-neutralcolors-dark2);
+  width: 785px;
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-subtext18 {
+  gap: 10px;
+  width: 785px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text417 {
+  color: var(--dl-color-neutralcolors-dark2);
+  width: 785px;
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text418 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-text420 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-code-card20 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-frame214722637320 {
+  gap: 4px;
+  display: flex;
+  padding: 12px 32px;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: flex-end;
+}
+.react-saa-s-boilerplate-frame214722637420 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.react-saa-s-boilerplate-iconoirterminal20 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-text422 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-copy20 {
+  gap: 4px;
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: center;
+}
+.react-saa-s-boilerplate-icon20 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-code20 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 32px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text424 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 635px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-rectangle402920 {
+  top: -8px;
+  left: 0px;
+  width: 8px;
+  height: 629px;
+  z-index: 3;
+  position: absolute;
+}
+.react-saa-s-boilerplate-subtext19 {
+  gap: 10px;
+  width: 785px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text464 {
+  color: var(--dl-color-neutralcolors-dark2);
+  width: 785px;
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text465 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-text467 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-code-card21 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-frame214722637321 {
+  gap: 4px;
+  display: flex;
+  padding: 12px 32px;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: flex-end;
+}
+.react-saa-s-boilerplate-frame214722637421 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.react-saa-s-boilerplate-iconoirterminal21 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-text469 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-copy21 {
+  gap: 4px;
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: center;
+}
+.react-saa-s-boilerplate-icon21 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-code21 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 32px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text471 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 635px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-rectangle402921 {
+  top: -35px;
+  left: 0px;
+  width: 8px;
+  height: 629px;
+  z-index: 3;
+  position: absolute;
+}
+.react-saa-s-boilerplate-subtext20 {
+  gap: 10px;
+  width: 785px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text507 {
+  color: var(--dl-color-neutralcolors-dark2);
+  width: 785px;
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text508 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-text510 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-code-card22 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-frame214722637322 {
+  gap: 4px;
+  display: flex;
+  padding: 12px 32px;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: flex-end;
+}
+.react-saa-s-boilerplate-frame214722637422 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.react-saa-s-boilerplate-iconoirterminal22 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-text512 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-copy22 {
+  gap: 4px;
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: center;
+}
+.react-saa-s-boilerplate-icon22 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-code22 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 32px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text514 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 635px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-rectangle402922 {
+  top: 73px;
+  left: 0px;
+  width: 8px;
+  height: 629px;
+  z-index: 3;
+  position: absolute;
+}
+.react-saa-s-boilerplate-frame2147226387 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-subheading4 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text566 {
+  color: var(--dl-color-neutralcolors-dark2);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-frame21472263754 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-heading4 {
+  gap: 10px;
+  width: 785px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text568 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text569 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-text571 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-code-card23 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-frame214722637323 {
+  gap: 4px;
+  display: flex;
+  padding: 12px 32px;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: flex-end;
+}
+.react-saa-s-boilerplate-frame214722637423 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.react-saa-s-boilerplate-iconoirterminal23 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-text573 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-copy23 {
+  gap: 4px;
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: center;
+}
+.react-saa-s-boilerplate-icon23 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-code23 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 32px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text575 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 635px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-rectangle402923 {
+  top: -251px;
+  left: 0px;
+  width: 8px;
+  height: 629px;
+  z-index: 3;
+  position: absolute;
+}
+.react-saa-s-boilerplate-subtext21 {
+  gap: 10px;
+  width: 785px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text579 {
+  color: var(--dl-color-neutralcolors-dark2);
+  width: 785px;
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text580 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-text582 {
+  font-weight: 700;
+}
+.react-saa-s-boilerplate-code-card24 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-frame214722637324 {
+  gap: 4px;
+  display: flex;
+  padding: 12px 32px;
+  z-index: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 0 0 1px;
+  justify-content: flex-end;
+}
+.react-saa-s-boilerplate-frame214722637424 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.react-saa-s-boilerplate-iconoirterminal24 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-text584 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-copy24 {
+  gap: 4px;
+  display: flex;
+  padding: 0 8px;
+  align-self: stretch;
+  align-items: center;
+}
+.react-saa-s-boilerplate-icon24 {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-code24 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 32px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text586 {
+  color: var(--dl-color-neutralcolors-dark1);
+  width: 635px;
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 170.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-rectangle402924 {
+  top: -251px;
+  left: 0px;
+  width: 8px;
+  height: 629px;
+  z-index: 3;
+  position: absolute;
+}
+.react-saa-s-boilerplate-frame2147226388 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-subheading5 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text590 {
+  color: var(--dl-color-neutralcolors-dark2);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-frame21472263755 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-heading5 {
+  gap: 10px;
+  width: 785px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-text592 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-frame1000001687 {
+  gap: 39px;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-unauthenticated-navbar {
+  gap: 67px;
+  width: 1440px;
+  display: flex;
+  padding: 32px 120px;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-hng-boilerplate-logo1 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.react-saa-s-boilerplate-group41 {
+  width: 57px;
+  height: 52px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.react-saa-s-boilerplate-text594 {
+  color: var(--dl-color-primary-primarycolor);
+  height: auto;
+  position: absolute;
+  font-size: 44px;
+  font-style: Medium;
+  text-align: center;
+  font-family: "Inter";
+  font-weight: 500;
+  line-height: 52px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-mdikettle1 {
+  top: 10px;
+  left: 13px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.react-saa-s-boilerplate-text595 {
+  color: var(--dl-color-neutralcolors-dark2);
+  height: auto;
+  text-align: center;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-links1 {
+  gap: -14px;
+  display: flex;
+  align-items: flex-start;
+}
+.react-saa-s-boilerplate-links2 {
+  gap: 17px;
+  display: flex;
+  padding: 8px 32px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: center;
+}
+.react-saa-s-boilerplate-text597 {
+  color: var(--dl-color-primary-primarycolor);
+  height: auto;
+  text-align: center;
+  line-height: 120.00000476837158%;
+}
+.react-saa-s-boilerplate-links3 {
+  gap: 17px;
+  display: flex;
+  padding: 8px 32px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.react-saa-s-boilerplate-text599 {
+  color: rgba(67, 67, 67, 1);
+  height: auto;
+  text-align: center;
+  line-height: 120.00000476837158%;
+}
+.react-saa-s-boilerplate-links4 {
+  gap: 17px;
+  width: 116px;
+  height: 44px;
+  display: flex;
+  padding: 8px 32px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: center;
+}
+.react-saa-s-boilerplate-text601 {
+  color: var(--dl-color-black-black400);
+  height: auto;
+  text-align: center;
+  line-height: 120.00000476837158%;
+}
+.react-saa-s-boilerplate-buttons1 {
+  gap: 32px;
+  display: flex;
+  align-items: center;
+}
+.react-saa-s-boilerplate-button1 {
+  gap: 10px;
+  height: 44px;
+  display: flex;
+  padding: 0 32px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(249, 115, 22, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.react-saa-s-boilerplate-text603 {
+  color: var(--dl-color-primarycolor-primary300);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.react-saa-s-boilerplate-button2 {
+  gap: 10px;
+  height: 44px;
+  display: flex;
+  padding: 0 32px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: center;
+  background-color: var(--dl-color-primary-primarycolor);
+}
+.react-saa-s-boilerplate-text605 {
+  color: rgba(248, 250, 252, 1);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.react-saa-s-boilerplate-bread-crumb {
+  gap: 10px;
+  top: 156px;
+  left: 120px;
+  width: 1200px;
+  display: flex;
+  padding: 8px 0;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-breadcrumb {
+  gap: 21.33333396911621px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-item {
+  gap: 10.666666984558105px;
+  display: flex;
+  padding: 5.333333492279053px 0;
+  align-items: center;
+}
+.react-saa-s-boilerplate-link {
+  gap: 10.666666984558105px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 5.333333492279053px;
+}
+.react-saa-s-boilerplate-text607 {
+  color: var(--dl-color-neutral-greydark);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 21.33333396911621px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-frame {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-item-link {
+  gap: 10.666666984558105px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 5.333333492279053px;
+}
+.react-saa-s-boilerplate-text609 {
+  color: var(--dl-color-neutralcolors-dark2);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 21.33333396911621px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-content {
+  gap: 24px;
+  top: 247px;
+  left: 120px;
+  width: 306px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text611 {
+  color: var(--dl-color-primary-primarycolor);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-text613 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text615 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text617 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text619 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text621 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-text623 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-frame2147226215 {
+  top: 8867px;
+  left: 0px;
+  width: 1440px;
+  height: 479px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.react-saa-s-boilerplate-lightmooddesktopfooter {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 479px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-neutralcolors-white);
+}
+.react-saa-s-boilerplate-text625 {
+  top: 71px;
+  left: 424px;
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-text627 {
+  top: 71px;
+  left: 627px;
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-text629 {
+  top: 72px;
+  left: 835px;
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-frame53075 {
+  gap: 17px;
+  top: 132px;
+  left: 428px;
+  width: 139px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.react-saa-s-boilerplate-text631 {
+  color: var(--dl-color-primary-primarycolor);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-text633 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-text635 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-text637 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-text639 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-frame53076 {
+  gap: 17px;
+  top: 132px;
+  left: 627px;
+  width: 158px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.react-saa-s-boilerplate-text641 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-text643 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-text645 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-text647 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-text649 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-frame53077 {
+  gap: 17px;
+  top: 132px;
+  left: 835px;
+  width: 174px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-text651 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-text653 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-text655 {
+  top: 60px;
+  left: 1038px;
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 49px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-frame53036 {
+  gap: 32px;
+  top: 113px;
+  left: 1048px;
+  width: 272px;
+  height: 46px;
+  display: flex;
+  padding: 4px 3px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.react-saa-s-boilerplate-frame53034 {
+  gap: 10px;
+  width: 283px;
+  height: 46px;
+  display: flex;
+  padding: 0 0 0 10px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.react-saa-s-boilerplate-text657 {
+  top: -3px;
+  left: 10px;
+  color: rgba(32, 56, 43, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 49px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-buttons2 {
+  gap: 10px;
+  top: 0px;
+  left: 183px;
+  width: 100px;
+  height: 46px;
+  display: flex;
+  padding: 8px 16px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: center;
+  background-color: var(--dl-color-primary-primarycolor);
+}
+.react-saa-s-boilerplate-text659 {
+  color: var(--dl-color-neutralcolors-white);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.react-saa-s-boilerplate-vector1 {
+  top: 356px;
+  left: 5.6843418860808015e-14px;
+  width: 1440px;
+  height: 1px;
+  position: absolute;
+}
+.react-saa-s-boilerplate-text661 {
+  top: 384px;
+  left: 1124px;
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-text663 {
+  top: 384px;
+  left: 1231px;
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-frame53044 {
+  gap: 2px;
+  top: 368px;
+  left: 618px;
+  width: 204px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.react-saa-s-boilerplate-tablercopyright {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-group1 {
+  top: 3.749999761581421px;
+  left: 3.75px;
+  width: 22.5px;
+  height: 22.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.react-saa-s-boilerplate-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.react-saa-s-boilerplate-vector3 {
+  top: 7.499341011047363px;
+  left: 7.498778343200684px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+}
+.react-saa-s-boilerplate-text665 {
+  color: var(--dl-color-strokecolors-stroke);
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 49px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-frame53043 {
+  gap: 3px;
+  top: 377px;
+  left: 120px;
+  width: 212px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.react-saa-s-boilerplate-frame53037 {
+  gap: 4.164705753326416px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 4.164705753326416px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 24px;
+  justify-content: center;
+  background-color: rgba(249, 115, 22, 1);
+}
+.react-saa-s-boilerplate-primetwitter {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.react-saa-s-boilerplate-group2 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.react-saa-s-boilerplate-clippathgroup {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.react-saa-s-boilerplate-prime-twitter0 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.react-saa-s-boilerplate-vector4 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.react-saa-s-boilerplate-group3 {
+  top: 0.749721109867096px;
+  left: 0.000017713835404720157px;
+  width: 16px;
+  height: 14.500571250915527px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.react-saa-s-boilerplate-vector5 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 15px;
+  position: absolute;
+}
+.react-saa-s-boilerplate-frame53039 {
+  gap: 6.310160160064697px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 0.6310160160064697px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 24px;
+  justify-content: center;
+  background-color: rgba(249, 115, 22, 1);
+}
+.react-saa-s-boilerplate-mdiyoutube {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-frame53040 {
+  gap: 6.310160160064697px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 0.6310160160064697px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 24px;
+  justify-content: center;
+  background-color: rgba(249, 115, 22, 1);
+}
+.react-saa-s-boilerplate-mdiinstagram {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-frame530411 {
+  width: 40px;
+  height: 40px;
+}
+.react-saa-s-boilerplate-frame530412 {
+  gap: 6.310160160064697px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 0.6310160160064697px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 24px;
+  justify-content: center;
+  background-color: rgba(249, 115, 22, 1);
+}
+.react-saa-s-boilerplate-rifacebookfill {
+  width: 16px;
+  height: 16px;
+}
+.react-saa-s-boilerplate-group1000006011 {
+  top: 51px;
+  left: 107px;
+  width: 295px;
+  height: 114px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.react-saa-s-boilerplate-text667 {
+  top: 80px;
+  left: 15px;
+  color: rgba(0, 0, 0, 1);
+  width: 280px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.react-saa-s-boilerplate-frame1171275266 {
+  gap: 8px;
+  top: 0px;
+  left: 0px;
+  width: 272px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.react-saa-s-boilerplate-hng-boilerplate-logo2 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.react-saa-s-boilerplate-group42 {
+  width: 57px;
+  height: 52px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.react-saa-s-boilerplate-text669 {
+  color: var(--dl-color-primary-primarycolor);
+  height: auto;
+  position: absolute;
+  font-size: 44px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 52px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.react-saa-s-boilerplate-mdikettle2 {
+  top: 10px;
+  left: 13px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.react-saa-s-boilerplate-text671 {
+  color: var(--dl-color-neutralcolors-dark1);
+  height: auto;
+  text-align: center;
+  line-height: normal;
+}

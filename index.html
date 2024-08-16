@@ -1,0 +1,1568 @@
+<!DOCTYPE html>
+<html lang="english">
+  <head>
+    <title>exported project</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
+
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-theme-neutral-dark);
+        background-color: var(--dl-color-theme-neutral-light);
+
+        fill: var(--dl-color-theme-neutral-dark);
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/animate.css@4.1.1/animate.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=STIX+Two+Text:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css"
+    />
+  </head>
+  <body>
+    <link rel="stylesheet" href="./style.css" />
+    <div>
+      <link href="./index.css" rel="stylesheet" />
+
+      <div class="react-saa-s-boilerplate-container">
+        <div class="react-saa-s-boilerplate-react-saa-s-boilerplate">
+          <div class="react-saa-s-boilerplate-frame2147226382">
+            <div class="react-saa-s-boilerplate-frame2147226383">
+              <div class="react-saa-s-boilerplate-heading1">
+                <span class="react-saa-s-boilerplate-text100 H1Bold">
+                  <span>
+                    Getting Started with FastAPI: A Complete Project Setup Guide
+                  </span>
+                </span>
+              </div>
+              <div class="react-saa-s-boilerplate-sub-heading1">
+                <span class="react-saa-s-boilerplate-text102 H6Medium">
+                  <span>
+                    Kickstart Your SaaS Projects with a Robust, Reusable React
+                    Boilerplate
+                  </span>
+                </span>
+              </div>
+              <div class="react-saa-s-boilerplate-sub-heading2">
+                <span class="react-saa-s-boilerplate-text104">
+                  <span>
+                    Building a SaaS application from scratch can be
+                    time-consuming and complex. A well-structured boilerplate
+                    can significantly streamline the development process,
+                    providing a solid foundation with reusable components and
+                    best practices. In this guide, we'll walk you through
+                    creating a React-based SaaS boilerplate, helping you
+                    jumpstart your projects with a clean, maintainable codebase.
+                  </span>
+                </span>
+              </div>
+            </div>
+            <img
+              src="public/external/line12014-drmd.svg"
+              alt="Line12014"
+              class="react-saa-s-boilerplate-line1"
+            />
+            <div class="react-saa-s-boilerplate-frame2147226376">
+              <div class="react-saa-s-boilerplate-subheading1">
+                <span class="react-saa-s-boilerplate-text106 H4SemiBold">
+                  <span>Setting Up the Development Environment</span>
+                </span>
+              </div>
+              <div class="react-saa-s-boilerplate-frame21472263751">
+                <div class="react-saa-s-boilerplate-heading2">
+                  <span class="react-saa-s-boilerplate-text108">
+                    <span class="react-saa-s-boilerplate-text109">
+                      Install Node.js and npm:
+                    </span>
+                    <br />
+                    <span class="react-saa-s-boilerplate-text111"></span>
+                    <span>
+                      Ensure Node.js and npm are installed on your machine.
+                    </span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-code-card10">
+                  <div class="react-saa-s-boilerplate-frame214722637310">
+                    <div class="react-saa-s-boilerplate-frame214722637410">
+                      <img
+                        src="public/external/iconoirterminal2014-oy3.svg"
+                        alt="iconoirterminal2014"
+                        class="react-saa-s-boilerplate-iconoirterminal10"
+                      />
+                      <span
+                        class="react-saa-s-boilerplate-text113 BodyRegularxsmall"
+                      >
+                        <span>bash</span>
+                      </span>
+                    </div>
+                    <div class="react-saa-s-boilerplate-copy10">
+                      <img
+                        src="public/external/icon2014-ku3h.svg"
+                        alt="icon2014"
+                        class="react-saa-s-boilerplate-icon10"
+                      />
+                    </div>
+                  </div>
+                  <div class="react-saa-s-boilerplate-code10">
+                    <span class="react-saa-s-boilerplate-text115">
+                      <span># Check if Node.js and npm are installed</span>
+                      <br />
+                      <span>node -v</span>
+                      <br />
+                      <span>npm -v</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span># Install Node.js and npm if not installed</span>
+                      <br />
+                      <span># For macOS</span>
+                      <br />
+                      <span>brew install node</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>
+                        # For Windows, download the installer from the Node.js
+                        website
+                      </span>
+                    </span>
+                  </div>
+                  <img
+                    src="public/external/rectangle40292014-cemo-200w.png"
+                    alt="Rectangle40292014"
+                    class="react-saa-s-boilerplate-rectangle402910"
+                  />
+                </div>
+                <div class="react-saa-s-boilerplate-subtext10">
+                  <span class="react-saa-s-boilerplate-text133">
+                    <span class="react-saa-s-boilerplate-text134">
+                      Create a New React Application:
+                    </span>
+                    <br />
+                    <span class="react-saa-s-boilerplate-text136"></span>
+                    <span>
+                      Use Create React App to set up a new React project
+                      quickly.
+                    </span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-code-card11">
+                  <div class="react-saa-s-boilerplate-frame214722637311">
+                    <div class="react-saa-s-boilerplate-frame214722637411">
+                      <img
+                        src="public/external/iconoirterminal2014-kkz.svg"
+                        alt="iconoirterminal2014"
+                        class="react-saa-s-boilerplate-iconoirterminal11"
+                      />
+                      <span
+                        class="react-saa-s-boilerplate-text138 BodyRegularxsmall"
+                      >
+                        <span>bash</span>
+                      </span>
+                    </div>
+                    <div class="react-saa-s-boilerplate-copy11">
+                      <img
+                        src="public/external/icon2014-0728.svg"
+                        alt="icon2014"
+                        class="react-saa-s-boilerplate-icon11"
+                      />
+                    </div>
+                  </div>
+                  <div class="react-saa-s-boilerplate-code11">
+                    <span class="react-saa-s-boilerplate-text140">
+                      <span>npx create-react-app react-saas-boilerplate</span>
+                      <br />
+                      <span>cd react-saas-boilerplate</span>
+                    </span>
+                  </div>
+                  <img
+                    src="public/external/rectangle40292014-dbnk-200w.png"
+                    alt="Rectangle40292014"
+                    class="react-saa-s-boilerplate-rectangle402911"
+                  />
+                </div>
+                <div class="react-saa-s-boilerplate-subtext11">
+                  <span class="react-saa-s-boilerplate-text144">
+                    <span class="react-saa-s-boilerplate-text145">
+                      Install Additional Dependencies:
+                    </span>
+                    <br />
+                    <span class="react-saa-s-boilerplate-text147"></span>
+                    <span>
+                      Install essential libraries like React Router for
+                      navigation, Axios for API calls, and styled-components for
+                      styling.
+                    </span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-code-card12">
+                  <div class="react-saa-s-boilerplate-frame214722637312">
+                    <div class="react-saa-s-boilerplate-frame214722637412">
+                      <img
+                        src="public/external/iconoirterminal2014-99pw.svg"
+                        alt="iconoirterminal2014"
+                        class="react-saa-s-boilerplate-iconoirterminal12"
+                      />
+                      <span
+                        class="react-saa-s-boilerplate-text149 BodyRegularxsmall"
+                      >
+                        <span>bash</span>
+                      </span>
+                    </div>
+                    <div class="react-saa-s-boilerplate-copy12">
+                      <img
+                        src="public/external/icon2014-b32n.svg"
+                        alt="icon2014"
+                        class="react-saa-s-boilerplate-icon12"
+                      />
+                    </div>
+                  </div>
+                  <div class="react-saa-s-boilerplate-code12">
+                    <span class="react-saa-s-boilerplate-text151">
+                      <span>
+                        npm install react-router-dom axios styled-components
+                      </span>
+                    </span>
+                  </div>
+                  <img
+                    src="public/external/rectangle40292014-h4p8-200w.png"
+                    alt="Rectangle40292014"
+                    class="react-saa-s-boilerplate-rectangle402912"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="react-saa-s-boilerplate-frame2147226384">
+              <div class="react-saa-s-boilerplate-subheading2">
+                <span class="react-saa-s-boilerplate-text153 H4SemiBold">
+                  <span>Structuring the Project</span>
+                </span>
+              </div>
+              <div class="react-saa-s-boilerplate-frame21472263752">
+                <div class="react-saa-s-boilerplate-heading3">
+                  <span class="react-saa-s-boilerplate-text155">
+                    <span class="react-saa-s-boilerplate-text156">
+                      Organize Your Project Directory
+                    </span>
+                    <br />
+                    <span class="react-saa-s-boilerplate-text158"></span>
+                    <span>
+                      A well-structured project directory makes your codebase
+                      more maintainable.
+                    </span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-code-card13">
+                  <div class="react-saa-s-boilerplate-frame214722637313">
+                    <div class="react-saa-s-boilerplate-frame214722637413">
+                      <img
+                        src="public/external/iconoirterminal2014-896.svg"
+                        alt="iconoirterminal2014"
+                        class="react-saa-s-boilerplate-iconoirterminal13"
+                      />
+                      <span
+                        class="react-saa-s-boilerplate-text160 BodyRegularxsmall"
+                      >
+                        <span>markdown</span>
+                      </span>
+                    </div>
+                    <div class="react-saa-s-boilerplate-copy13">
+                      <img
+                        src="public/external/icon2014-fwno.svg"
+                        alt="icon2014"
+                        class="react-saa-s-boilerplate-icon13"
+                      />
+                    </div>
+                  </div>
+                  <div class="react-saa-s-boilerplate-code13">
+                    <span class="react-saa-s-boilerplate-text162">
+                      <span>react-saas-boilerplate/</span>
+                      <br />
+                      <span>├── public/</span>
+                      <br />
+                      <span>├── src/</span>
+                      <br />
+                      <span>│ ├── components/</span>
+                      <br />
+                      <span>│ ├── pages/</span>
+                      <br />
+                      <span>│ ├── services/</span>
+                      <br />
+                      <span>│ ├── styles/</span>
+                      <br />
+                      <span>│ ├── App.js</span>
+                      <br />
+                      <span>│ ├── index.js</span>
+                      <br />
+                      <span>├── package.json</span>
+                    </span>
+                  </div>
+                  <img
+                    src="public/external/rectangle40292014-m5jb-200w.png"
+                    alt="Rectangle40292014"
+                    class="react-saa-s-boilerplate-rectangle402913"
+                  />
+                </div>
+                <div class="react-saa-s-boilerplate-subtext12">
+                  <span class="react-saa-s-boilerplate-text182">
+                    <span class="react-saa-s-boilerplate-text183">
+                      Create Reusable Components:
+                    </span>
+                    <br />
+                    <span class="react-saa-s-boilerplate-text185"></span>
+                    <span>
+                      Start by creating reusable components like Header, Footer,
+                      and Navigation.
+                    </span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-code-card14">
+                  <div class="react-saa-s-boilerplate-frame214722637314">
+                    <div class="react-saa-s-boilerplate-frame214722637414">
+                      <img
+                        src="public/external/iconoirterminal2014-q16e.svg"
+                        alt="iconoirterminal2014"
+                        class="react-saa-s-boilerplate-iconoirterminal14"
+                      />
+                      <span
+                        class="react-saa-s-boilerplate-text187 BodyRegularxsmall"
+                      >
+                        <span>jsx</span>
+                      </span>
+                    </div>
+                    <div class="react-saa-s-boilerplate-copy14">
+                      <img
+                        src="public/external/icon2014-72t.svg"
+                        alt="icon2014"
+                        class="react-saa-s-boilerplate-icon14"
+                      />
+                    </div>
+                  </div>
+                  <div class="react-saa-s-boilerplate-code14">
+                    <span class="react-saa-s-boilerplate-text189">
+                      <span>// src/components/Header.js</span>
+                      <br />
+                      <span>import React from 'react';</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>const Header = () =&gt; (</span>
+                      <br />
+                      <span>&lt;header&gt;</span>
+                      <br />
+                      <span>&lt;h1&gt;React SaaS Boilerplate&lt;/h1&gt;</span>
+                      <br />
+                      <span>&lt;/header&gt;</span>
+                      <br />
+                      <span>);</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>export default Header;</span>
+                    </span>
+                  </div>
+                  <img
+                    src="public/external/rectangle40292014-1l2m-200w.png"
+                    alt="Rectangle40292014"
+                    class="react-saa-s-boilerplate-rectangle402914"
+                  />
+                </div>
+                <div class="react-saa-s-boilerplate-subtext13">
+                  <span class="react-saa-s-boilerplate-text209">
+                    <span class="react-saa-s-boilerplate-text210">
+                      Implement Global Styles
+                    </span>
+                    <br />
+                    <span class="react-saa-s-boilerplate-text212"></span>
+                    <span>Use styled-components for global styling.</span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-code-card15">
+                  <div class="react-saa-s-boilerplate-frame214722637315">
+                    <div class="react-saa-s-boilerplate-frame214722637415">
+                      <img
+                        src="public/external/iconoirterminal2014-3du.svg"
+                        alt="iconoirterminal2014"
+                        class="react-saa-s-boilerplate-iconoirterminal15"
+                      />
+                      <span
+                        class="react-saa-s-boilerplate-text214 BodyRegularxsmall"
+                      >
+                        <span>jsx</span>
+                      </span>
+                    </div>
+                    <div class="react-saa-s-boilerplate-copy15">
+                      <img
+                        src="public/external/icon2014-a0hd.svg"
+                        alt="icon2014"
+                        class="react-saa-s-boilerplate-icon15"
+                      />
+                    </div>
+                  </div>
+                  <div class="react-saa-s-boilerplate-code15">
+                    <span class="react-saa-s-boilerplate-text216">
+                      <span>// src/styles/GlobalStyle.js</span>
+                      <br />
+                      <span>
+                        import { createGlobalStyle } from 'styled-components';
+                      </span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>const GlobalStyle = createGlobalStyle`</span>
+                      <br />
+                      <span>body {</span>
+                      <br />
+                      <span>margin: 0;</span>
+                      <br />
+                      <span>padding: 0;</span>
+                      <br />
+                      <span>font-family: 'Arial', sans-serif;</span>
+                      <br />
+                      <span>background-color: #f8f8f8;</span>
+                      <br />
+                      <span>}</span>
+                      <br />
+                      <span>`;</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>export default GlobalStyle;</span>
+                    </span>
+                  </div>
+                  <img
+                    src="public/external/rectangle40292014-j98mn-200w.png"
+                    alt="Rectangle40292014"
+                    class="react-saa-s-boilerplate-rectangle402915"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="react-saa-s-boilerplate-frame2147226385">
+              <div class="react-saa-s-boilerplate-subheading3">
+                <span class="react-saa-s-boilerplate-text242 H4SemiBold">
+                  <span>Authentication and State Management</span>
+                </span>
+              </div>
+              <div class="react-saa-s-boilerplate-frame21472263753">
+                <div class="react-saa-s-boilerplate-subtext14">
+                  <span class="react-saa-s-boilerplate-text244">
+                    <span class="react-saa-s-boilerplate-text245">
+                      Set Up Context for Authentication:
+                    </span>
+                    <br />
+                    <span class="react-saa-s-boilerplate-text247"></span>
+                    <span>
+                      Create a context to manage authentication state across
+                      your application.
+                    </span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-code-card16">
+                  <div class="react-saa-s-boilerplate-frame214722637316">
+                    <div class="react-saa-s-boilerplate-frame214722637416">
+                      <img
+                        src="public/external/iconoirterminal2014-3bra.svg"
+                        alt="iconoirterminal2014"
+                        class="react-saa-s-boilerplate-iconoirterminal16"
+                      />
+                      <span
+                        class="react-saa-s-boilerplate-text249 BodyRegularxsmall"
+                      >
+                        <span>jsx</span>
+                      </span>
+                    </div>
+                    <div class="react-saa-s-boilerplate-copy16">
+                      <img
+                        src="public/external/icon2014-twwt.svg"
+                        alt="icon2014"
+                        class="react-saa-s-boilerplate-icon16"
+                      />
+                    </div>
+                  </div>
+                  <div class="react-saa-s-boilerplate-code16">
+                    <span class="react-saa-s-boilerplate-text251">
+                      <span>// src/contexts/AuthContext.js</span>
+                      <br />
+                      <span>
+                        import React, { createContext, useState } from 'react';
+                      </span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>export const AuthContext = createContext();</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>
+                        export const AuthProvider = ({ children }) =&gt; {
+                      </span>
+                      <br />
+                      <span>const [user, setUser] = useState(null);</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>
+                        const login = (userData) =&gt; setUser(userData);
+                      </span>
+                      <br />
+                      <span>const logout = () =&gt; setUser(null);</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>return (</span>
+                      <br />
+                      <span>
+                        &lt;AuthContext.Provider value={{ user, login, logout
+                        }}&gt;
+                      </span>
+                      <br />
+                      <span>{children}</span>
+                      <br />
+                      <span>&lt;/AuthContext.Provider&gt;</span>
+                      <br />
+                      <span>);</span>
+                      <br />
+                      <span>};</span>
+                    </span>
+                  </div>
+                  <img
+                    src="public/external/rectangle40292014-490k-200w.png"
+                    alt="Rectangle40292014"
+                    class="react-saa-s-boilerplate-rectangle402916"
+                  />
+                </div>
+                <div class="react-saa-s-boilerplate-subtext15">
+                  <span class="react-saa-s-boilerplate-text285">
+                    <span class="react-saa-s-boilerplate-text286">
+                      Integrate with an Authentication Service:
+                    </span>
+                    <br />
+                    <span class="react-saa-s-boilerplate-text288"></span>
+                    <span>Use Firebase for user authentication.</span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-code-card17">
+                  <div class="react-saa-s-boilerplate-frame214722637317">
+                    <div class="react-saa-s-boilerplate-frame214722637417">
+                      <img
+                        src="public/external/iconoirterminal2014-87ij.svg"
+                        alt="iconoirterminal2014"
+                        class="react-saa-s-boilerplate-iconoirterminal17"
+                      />
+                      <span
+                        class="react-saa-s-boilerplate-text290 BodyRegularxsmall"
+                      >
+                        <span>bash</span>
+                      </span>
+                    </div>
+                    <div class="react-saa-s-boilerplate-copy17">
+                      <img
+                        src="public/external/icon2014-ilo.svg"
+                        alt="icon2014"
+                        class="react-saa-s-boilerplate-icon17"
+                      />
+                    </div>
+                  </div>
+                  <div class="react-saa-s-boilerplate-code17">
+                    <span class="react-saa-s-boilerplate-text292">
+                      <span>npm install firebase</span>
+                    </span>
+                  </div>
+                  <img
+                    src="public/external/rectangle40292014-ncuw-200w.png"
+                    alt="Rectangle40292014"
+                    class="react-saa-s-boilerplate-rectangle402917"
+                  />
+                </div>
+                <div class="react-saa-s-boilerplate-code-card18">
+                  <div class="react-saa-s-boilerplate-frame214722637318">
+                    <div class="react-saa-s-boilerplate-frame214722637418">
+                      <img
+                        src="public/external/iconoirterminal2014-gfj.svg"
+                        alt="iconoirterminal2014"
+                        class="react-saa-s-boilerplate-iconoirterminal18"
+                      />
+                      <span
+                        class="react-saa-s-boilerplate-text294 BodyRegularxsmall"
+                      >
+                        <span>jsx</span>
+                      </span>
+                    </div>
+                    <div class="react-saa-s-boilerplate-copy18">
+                      <img
+                        src="public/external/icon2014-e7b.svg"
+                        alt="icon2014"
+                        class="react-saa-s-boilerplate-icon18"
+                      />
+                    </div>
+                  </div>
+                  <div class="react-saa-s-boilerplate-code18">
+                    <span class="react-saa-s-boilerplate-text296">
+                      <span>// src/services/firebase.js</span>
+                      <br />
+                      <span>import firebase from 'firebase/app';</span>
+                      <br />
+                      <span>import 'firebase/auth';</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>const firebaseConfig = {</span>
+                      <br />
+                      <span>apiKey: "YOUR_API_KEY",</span>
+                      <br />
+                      <span>authDomain: "YOUR_AUTH_DOMAIN",</span>
+                      <br />
+                      <span>projectId: "YOUR_PROJECT_ID",</span>
+                      <br />
+                      <span>storageBucket: "YOUR_STORAGE_BUCKET",</span>
+                      <br />
+                      <span>
+                        messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+                      </span>
+                      <br />
+                      <span>appId: "YOUR_APP_ID"</span>
+                      <br />
+                      <span>};</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>firebase.initializeApp(firebaseConfig);</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>export const auth = firebase.auth();</span>
+                    </span>
+                  </div>
+                  <img
+                    src="public/external/rectangle40292014-b8yl-200w.png"
+                    alt="Rectangle40292014"
+                    class="react-saa-s-boilerplate-rectangle402918"
+                  />
+                </div>
+                <div class="react-saa-s-boilerplate-subtext16">
+                  <span class="react-saa-s-boilerplate-text328">
+                    <span class="react-saa-s-boilerplate-text329">
+                      Create Authentication Components:
+                    </span>
+                    <br />
+                    <span class="react-saa-s-boilerplate-text331"></span>
+                    <span>Implement login and signup components.</span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-code-card19">
+                  <div class="react-saa-s-boilerplate-frame214722637319">
+                    <div class="react-saa-s-boilerplate-frame214722637419">
+                      <img
+                        src="public/external/iconoirterminal2014-lvn.svg"
+                        alt="iconoirterminal2014"
+                        class="react-saa-s-boilerplate-iconoirterminal19"
+                      />
+                      <span
+                        class="react-saa-s-boilerplate-text333 BodyRegularxsmall"
+                      >
+                        <span>jsx</span>
+                      </span>
+                    </div>
+                    <div class="react-saa-s-boilerplate-copy19">
+                      <img
+                        src="public/external/icon2014-lc2m.svg"
+                        alt="icon2014"
+                        class="react-saa-s-boilerplate-icon19"
+                      />
+                    </div>
+                  </div>
+                  <div class="react-saa-s-boilerplate-code19">
+                    <span class="react-saa-s-boilerplate-text335">
+                      <span>// src/components/Login.js</span>
+                      <br />
+                      <span>
+                        import React, { useContext, useState } from 'react';
+                      </span>
+                      <br />
+                      <span>
+                        import { AuthContext } from '../contexts/AuthContext';
+                      </span>
+                      <br />
+                      <span>import { auth } from '../services/firebase';</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>const Login = () =&gt; {</span>
+                      <br />
+                      <span>const [email, setEmail] = useState('');</span>
+                      <br />
+                      <span>const [password, setPassword] = useState('');</span>
+                      <br />
+                      <span>const { login } = useContext(AuthContext);</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>const handleSubmit = async (e) =&gt; {</span>
+                      <br />
+                      <span>e.preventDefault();</span>
+                      <br />
+                      <span>try {</span>
+                      <br />
+                      <span>
+                        const userCredential = await
+                        auth.signInWithEmailAndPassword(email, password);
+                      </span>
+                      <br />
+                      <span>login(userCredential.user);</span>
+                      <br />
+                      <span>} catch (error) {</span>
+                      <br />
+                      <span>console.error("Error logging in", error);</span>
+                      <br />
+                      <span>}</span>
+                      <br />
+                      <span>};</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>return (</span>
+                      <br />
+                      <span>&lt;form onSubmit={handleSubmit}&gt;</span>
+                      <br />
+                      <span>&lt;input</span>
+                      <br />
+                      <span>type="email"</span>
+                      <br />
+                      <span>value={email}</span>
+                      <br />
+                      <span>onChange={(e) =&gt; setEmail(e.target.value)}</span>
+                      <br />
+                      <span>placeholder="Email"</span>
+                      <br />
+                      <span>/&gt;</span>
+                      <br />
+                      <span>&lt;input</span>
+                      <br />
+                      <span>type="password"</span>
+                      <br />
+                      <span>value={password}</span>
+                      <br />
+                      <span>
+                        onChange={(e) =&gt; setPassword(e.target.value)}
+                      </span>
+                      <br />
+                      <span>placeholder="Password"</span>
+                      <br />
+                      <span>/&gt;</span>
+                      <br />
+                      <span>
+                        &lt;button type="submit"&gt;Login&lt;/button&gt;
+                      </span>
+                      <br />
+                      <span>&lt;/form&gt;</span>
+                      <br />
+                      <span>);</span>
+                      <br />
+                      <span>};</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>export default Login;</span>
+                    </span>
+                  </div>
+                  <img
+                    src="public/external/rectangle40292014-p8ue-200w.png"
+                    alt="Rectangle40292014"
+                    class="react-saa-s-boilerplate-rectangle402919"
+                  />
+                </div>
+                <div class="react-saa-s-boilerplate-subtext17">
+                  <span class="react-saa-s-boilerplate-text415">
+                    <span>Building Core SaaS Features</span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-subtext18">
+                  <span class="react-saa-s-boilerplate-text417">
+                    <span class="react-saa-s-boilerplate-text418">
+                      Create a Dashboard Page:
+                    </span>
+                    <br />
+                    <span class="react-saa-s-boilerplate-text420"></span>
+                    <span>
+                      Develop a dashboard where authenticated users can manage
+                      their account and view data.
+                    </span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-code-card20">
+                  <div class="react-saa-s-boilerplate-frame214722637320">
+                    <div class="react-saa-s-boilerplate-frame214722637420">
+                      <img
+                        src="public/external/iconoirterminal2014-rnhm.svg"
+                        alt="iconoirterminal2014"
+                        class="react-saa-s-boilerplate-iconoirterminal20"
+                      />
+                      <span
+                        class="react-saa-s-boilerplate-text422 BodyRegularxsmall"
+                      >
+                        <span>jsx</span>
+                      </span>
+                    </div>
+                    <div class="react-saa-s-boilerplate-copy20">
+                      <img
+                        src="public/external/icon2014-93kf.svg"
+                        alt="icon2014"
+                        class="react-saa-s-boilerplate-icon20"
+                      />
+                    </div>
+                  </div>
+                  <div class="react-saa-s-boilerplate-code20">
+                    <span class="react-saa-s-boilerplate-text424">
+                      <span>// src/pages/Dashboard.js</span>
+                      <br />
+                      <span>import React, { useContext } from 'react';</span>
+                      <br />
+                      <span>
+                        import { AuthContext } from '../contexts/AuthContext';
+                      </span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>const Dashboard = () =&gt; {</span>
+                      <br />
+                      <span>const { user } = useContext(AuthContext);</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>if (!user) {</span>
+                      <br />
+                      <span>
+                        return &lt;p&gt;Please log in to view the
+                        dashboard.&lt;/p&gt;;
+                      </span>
+                      <br />
+                      <span>}</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>return (</span>
+                      <br />
+                      <span>&lt;div&gt;</span>
+                      <br />
+                      <span>&lt;h2&gt;Welcome, {user.email}&lt;/h2&gt;</span>
+                      <br />
+                      <span>
+                        &lt;p&gt;Your account details and data will appear
+                        here.&lt;/p&gt;
+                      </span>
+                      <br />
+                      <span>&lt;/div&gt;</span>
+                      <br />
+                      <span>);</span>
+                      <br />
+                      <span>};</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>export default Dashboard;</span>
+                    </span>
+                  </div>
+                  <img
+                    src="public/external/rectangle40292014-gb3-200w.png"
+                    alt="Rectangle40292014"
+                    class="react-saa-s-boilerplate-rectangle402920"
+                  />
+                </div>
+                <div class="react-saa-s-boilerplate-subtext19">
+                  <span class="react-saa-s-boilerplate-text464">
+                    <span class="react-saa-s-boilerplate-text465">
+                      Implement API Calls:
+                    </span>
+                    <br />
+                    <span class="react-saa-s-boilerplate-text467"></span>
+                    <span>
+                      Use Axios to fetch data from your backend service.
+                    </span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-code-card21">
+                  <div class="react-saa-s-boilerplate-frame214722637321">
+                    <div class="react-saa-s-boilerplate-frame214722637421">
+                      <img
+                        src="public/external/iconoirterminal2014-144.svg"
+                        alt="iconoirterminal2014"
+                        class="react-saa-s-boilerplate-iconoirterminal21"
+                      />
+                      <span
+                        class="react-saa-s-boilerplate-text469 BodyRegularxsmall"
+                      >
+                        <span>jsx</span>
+                      </span>
+                    </div>
+                    <div class="react-saa-s-boilerplate-copy21">
+                      <img
+                        src="public/external/icon2014-f0qn.svg"
+                        alt="icon2014"
+                        class="react-saa-s-boilerplate-icon21"
+                      />
+                    </div>
+                  </div>
+                  <div class="react-saa-s-boilerplate-code21">
+                    <span class="react-saa-s-boilerplate-text471">
+                      <span>// src/services/api.js</span>
+                      <br />
+                      <span>import axios from 'axios';</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>const apiClient = axios.create({</span>
+                      <br />
+                      <span>baseURL: 'https://api.yourservice.com',</span>
+                      <br />
+                      <span>headers: {</span>
+                      <br />
+                      <span>'Content-Type': 'application/json'</span>
+                      <br />
+                      <span>}</span>
+                      <br />
+                      <span>});</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>export const fetchData = async () =&gt; {</span>
+                      <br />
+                      <span>try {</span>
+                      <br />
+                      <span>
+                        const response = await apiClient.get('/data');
+                      </span>
+                      <br />
+                      <span>return response.data;</span>
+                      <br />
+                      <span>} catch (error) {</span>
+                      <br />
+                      <span>console.error("Error fetching data", error);</span>
+                      <br />
+                      <span>}</span>
+                      <br />
+                      <span>};</span>
+                    </span>
+                  </div>
+                  <img
+                    src="public/external/rectangle40292014-pz4n-200w.png"
+                    alt="Rectangle40292014"
+                    class="react-saa-s-boilerplate-rectangle402921"
+                  />
+                </div>
+                <div class="react-saa-s-boilerplate-subtext20">
+                  <span class="react-saa-s-boilerplate-text507">
+                    <span class="react-saa-s-boilerplate-text508">
+                      Create Feature Components:
+                    </span>
+                    <br />
+                    <span class="react-saa-s-boilerplate-text510"></span>
+                    <span>
+                      Develop components for key features such as user
+                      management and data visualization.
+                    </span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-code-card22">
+                  <div class="react-saa-s-boilerplate-frame214722637322">
+                    <div class="react-saa-s-boilerplate-frame214722637422">
+                      <img
+                        src="public/external/iconoirterminal2014-7ywai.svg"
+                        alt="iconoirterminal2014"
+                        class="react-saa-s-boilerplate-iconoirterminal22"
+                      />
+                      <span
+                        class="react-saa-s-boilerplate-text512 BodyRegularxsmall"
+                      >
+                        <span>jsx</span>
+                      </span>
+                    </div>
+                    <div class="react-saa-s-boilerplate-copy22">
+                      <img
+                        src="public/external/icon2014-wakv.svg"
+                        alt="icon2014"
+                        class="react-saa-s-boilerplate-icon22"
+                      />
+                    </div>
+                  </div>
+                  <div class="react-saa-s-boilerplate-code22">
+                    <span class="react-saa-s-boilerplate-text514">
+                      <span>// src/components/UserList.js</span>
+                      <br />
+                      <span>
+                        import React, { useEffect, useState } from 'react';
+                      </span>
+                      <br />
+                      <span>import { fetchData } from '../services/api';</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>const UserList = () =&gt; {</span>
+                      <br />
+                      <span>const [users, setUsers] = useState([]);</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>useEffect(() =&gt; {</span>
+                      <br />
+                      <span>const getUsers = async () =&gt; {</span>
+                      <br />
+                      <span>const data = await fetchData();</span>
+                      <br />
+                      <span>setUsers(data.users);</span>
+                      <br />
+                      <span>};</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>getUsers();</span>
+                      <br />
+                      <span>}, []);</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>return (</span>
+                      <br />
+                      <span>&lt;ul&gt;</span>
+                      <br />
+                      <span>{users.map((user) =&gt; (</span>
+                      <br />
+                      <span>
+                        &lt;li key={user.id}&gt;{user.name}&lt;/li&gt;
+                      </span>
+                      <br />
+                      <span>))}</span>
+                      <br />
+                      <span>&lt;/ul&gt;</span>
+                      <br />
+                      <span>);</span>
+                      <br />
+                      <span>};</span>
+                      <br />
+                      <span></span>
+                      <br />
+                      <span>export default UserList;</span>
+                    </span>
+                  </div>
+                  <img
+                    src="public/external/rectangle40292014-tmnl-200w.png"
+                    alt="Rectangle40292014"
+                    class="react-saa-s-boilerplate-rectangle402922"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="react-saa-s-boilerplate-frame2147226387">
+              <div class="react-saa-s-boilerplate-subheading4">
+                <span class="react-saa-s-boilerplate-text566 H4SemiBold">
+                  <span>Deployment and Scaling</span>
+                </span>
+              </div>
+              <div class="react-saa-s-boilerplate-frame21472263754">
+                <div class="react-saa-s-boilerplate-heading4">
+                  <span class="react-saa-s-boilerplate-text568">
+                    <span class="react-saa-s-boilerplate-text569">
+                      Deploy with Vercel:
+                    </span>
+                    <br />
+                    <span class="react-saa-s-boilerplate-text571"></span>
+                    <span>
+                      Deploy your application with Vercel for seamless
+                      integration.
+                    </span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-code-card23">
+                  <div class="react-saa-s-boilerplate-frame214722637323">
+                    <div class="react-saa-s-boilerplate-frame214722637423">
+                      <img
+                        src="public/external/iconoirterminal2014-jpqf.svg"
+                        alt="iconoirterminal2014"
+                        class="react-saa-s-boilerplate-iconoirterminal23"
+                      />
+                      <span
+                        class="react-saa-s-boilerplate-text573 BodyRegularxsmall"
+                      >
+                        <span>bash</span>
+                      </span>
+                    </div>
+                    <div class="react-saa-s-boilerplate-copy23">
+                      <img
+                        src="public/external/icon2014-xy8t.svg"
+                        alt="icon2014"
+                        class="react-saa-s-boilerplate-icon23"
+                      />
+                    </div>
+                  </div>
+                  <div class="react-saa-s-boilerplate-code23">
+                    <span class="react-saa-s-boilerplate-text575">
+                      <span>npm run build</span>
+                      <br />
+                      <span>vercel</span>
+                    </span>
+                  </div>
+                  <img
+                    src="public/external/rectangle40292014-h3r-200w.png"
+                    alt="Rectangle40292014"
+                    class="react-saa-s-boilerplate-rectangle402923"
+                  />
+                </div>
+                <div class="react-saa-s-boilerplate-subtext21">
+                  <span class="react-saa-s-boilerplate-text579">
+                    <span class="react-saa-s-boilerplate-text580">
+                      Set Up Environment Variables:
+                    </span>
+                    <br />
+                    <span class="react-saa-s-boilerplate-text582"></span>
+                    <span>
+                      Ensure your environment variables are configured for
+                      production.
+                    </span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-code-card24">
+                  <div class="react-saa-s-boilerplate-frame214722637324">
+                    <div class="react-saa-s-boilerplate-frame214722637424">
+                      <img
+                        src="public/external/iconoirterminal2014-jjh.svg"
+                        alt="iconoirterminal2014"
+                        class="react-saa-s-boilerplate-iconoirterminal24"
+                      />
+                      <span
+                        class="react-saa-s-boilerplate-text584 BodyRegularxsmall"
+                      >
+                        <span>bash</span>
+                      </span>
+                    </div>
+                    <div class="react-saa-s-boilerplate-copy24">
+                      <img
+                        src="public/external/icon2014-2qfi.svg"
+                        alt="icon2014"
+                        class="react-saa-s-boilerplate-icon24"
+                      />
+                    </div>
+                  </div>
+                  <div class="react-saa-s-boilerplate-code24">
+                    <span class="react-saa-s-boilerplate-text586">
+                      <span>vercel env add</span>
+                      <br />
+                      <span></span>
+                    </span>
+                  </div>
+                  <img
+                    src="public/external/rectangle40292014-hvba-200w.png"
+                    alt="Rectangle40292014"
+                    class="react-saa-s-boilerplate-rectangle402924"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="react-saa-s-boilerplate-frame2147226388">
+              <div class="react-saa-s-boilerplate-subheading5">
+                <span class="react-saa-s-boilerplate-text590 H4SemiBold">
+                  <span>Conclusion</span>
+                </span>
+              </div>
+              <div class="react-saa-s-boilerplate-frame21472263755">
+                <div class="react-saa-s-boilerplate-heading5">
+                  <span class="react-saa-s-boilerplate-text592">
+                    <span>
+                      By following this guide, you've created a robust
+                      React-based SaaS boilerplate that simplifies the
+                      development of scalable, maintainable applications. This
+                      boilerplate includes essential features like
+                      authentication, reusable components, and API integration,
+                      providing a strong foundation for your SaaS projects.
+                      Continue to customize and expand your boilerplate to suit
+                      your specific needs and enhance your development workflow.
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="react-saa-s-boilerplate-frame1000001687">
+            <div class="react-saa-s-boilerplate-unauthenticated-navbar">
+              <div class="react-saa-s-boilerplate-hng-boilerplate-logo1">
+                <div class="react-saa-s-boilerplate-group41">
+                  <span class="react-saa-s-boilerplate-text594">[ ]</span>
+                  <img
+                    src="public/external/mdikettlei2014-xxoo.svg"
+                    alt="mdikettleI2014"
+                    class="react-saa-s-boilerplate-mdikettle1"
+                  />
+                </div>
+                <span class="react-saa-s-boilerplate-text595 H3SemiBold">
+                  <span>HNG Boilerplate</span>
+                </span>
+              </div>
+              <div class="react-saa-s-boilerplate-links1">
+                <div class="react-saa-s-boilerplate-links2">
+                  <span
+                    class="react-saa-s-boilerplate-text597 Paragraph2Medium"
+                  >
+                    <span>Home</span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-links3">
+                  <span
+                    class="react-saa-s-boilerplate-text599 Paragraph2Medium"
+                  >
+                    <span>Pricing</span>
+                  </span>
+                </div>
+                <div class="react-saa-s-boilerplate-links4">
+                  <span
+                    class="react-saa-s-boilerplate-text601 Paragraph2Medium"
+                  >
+                    <span>Features</span>
+                  </span>
+                </div>
+              </div>
+              <button class="react-saa-s-boilerplate-buttons1"></button>
+              <button class="react-saa-s-boilerplate-button1">
+                <span class="react-saa-s-boilerplate-text603 bodyMedium">
+                  <span>Log In</span>
+                </span>
+              </button>
+              <button class="react-saa-s-boilerplate-button2">
+                <span class="react-saa-s-boilerplate-text605 bodyMedium">
+                  <span>Get Started</span>
+                </span>
+              </button>
+            </div>
+          </div>
+          <div class="react-saa-s-boilerplate-bread-crumb">
+            <div class="react-saa-s-boilerplate-breadcrumb">
+              <div class="react-saa-s-boilerplate-item">
+                <div class="react-saa-s-boilerplate-link">
+                  <span class="react-saa-s-boilerplate-text607">
+                    <span>Help</span>
+                  </span>
+                </div>
+                <img
+                  src="public/external/framei2014-lg8.svg"
+                  alt="FrameI2014"
+                  class="react-saa-s-boilerplate-frame"
+                />
+              </div>
+              <div class="react-saa-s-boilerplate-item-link">
+                <span class="react-saa-s-boilerplate-text609">
+                  <span>React SaaS Boilerplate</span>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="react-saa-s-boilerplate-content">
+            <span class="react-saa-s-boilerplate-text611 H6Regular">
+              <span>Introduction</span>
+            </span>
+            <span class="react-saa-s-boilerplate-text613">
+              <span>Setting Up the Development Environment</span>
+            </span>
+            <span class="react-saa-s-boilerplate-text615">
+              <span>Structuring the Project</span>
+            </span>
+            <span class="react-saa-s-boilerplate-text617">
+              <span>Authentication and State Management</span>
+            </span>
+            <span class="react-saa-s-boilerplate-text619">
+              <span>Building Core SaaS Features</span>
+            </span>
+            <span class="react-saa-s-boilerplate-text621">
+              <span>Deployment and Scaling</span>
+            </span>
+            <span class="react-saa-s-boilerplate-text623">
+              <span>Conclusion</span>
+            </span>
+          </div>
+          <div class="react-saa-s-boilerplate-frame2147226215">
+            <div class="react-saa-s-boilerplate-lightmooddesktopfooter">
+              <span class="react-saa-s-boilerplate-text625 H5SemiBold">
+                <span>Navigation</span>
+              </span>
+              <span class="react-saa-s-boilerplate-text627 H5SemiBold">
+                <span>Support</span>
+              </span>
+              <span class="react-saa-s-boilerplate-text629 H5Bold">
+                <span>Legal</span>
+              </span>
+              <div class="react-saa-s-boilerplate-frame53075">
+                <span class="react-saa-s-boilerplate-text631 H6Regular">
+                  <span>Home</span>
+                </span>
+                <span class="react-saa-s-boilerplate-text633 H6Regular">
+                  <span>About us</span>
+                </span>
+                <span class="react-saa-s-boilerplate-text635 H6Regular">
+                  <span>Careers</span>
+                </span>
+                <span class="react-saa-s-boilerplate-text637 H6Regular">
+                  <span>Feature updates</span>
+                </span>
+                <span class="react-saa-s-boilerplate-text639 H6Regular">
+                  <span>Blog</span>
+                </span>
+              </div>
+              <div class="react-saa-s-boilerplate-frame53076">
+                <span class="react-saa-s-boilerplate-text641 H6Regular">
+                  <span>Help Center</span>
+                </span>
+                <span class="react-saa-s-boilerplate-text643 H6Regular">
+                  <span>FAQ</span>
+                </span>
+                <span class="react-saa-s-boilerplate-text645 H6Regular">
+                  <span>Waiting list</span>
+                </span>
+                <span class="react-saa-s-boilerplate-text647 H6Regular">
+                  <span>Pricing Experience</span>
+                </span>
+                <span class="react-saa-s-boilerplate-text649 H6Regular">
+                  <span>Contact Us</span>
+                </span>
+              </div>
+              <div class="react-saa-s-boilerplate-frame53077">
+                <span class="react-saa-s-boilerplate-text651 H6Regular">
+                  <span>Privacy Policy</span>
+                </span>
+                <span class="react-saa-s-boilerplate-text653 H6Regular">
+                  <span>Terms and condition</span>
+                </span>
+              </div>
+              <span class="react-saa-s-boilerplate-text655">
+                <span>Sign Up For Newsletter</span>
+              </span>
+              <div class="react-saa-s-boilerplate-frame53036">
+                <div class="react-saa-s-boilerplate-frame53034">
+                  <span class="react-saa-s-boilerplate-text657">
+                    <span>Enter Email</span>
+                  </span>
+                  <button class="react-saa-s-boilerplate-buttons2">
+                    <span class="react-saa-s-boilerplate-text659 bodyMedium1">
+                      <span>Subscribe</span>
+                    </span>
+                  </button>
+                </div>
+              </div>
+              <img
+                src="public/external/vector1i2014-9k1r.svg"
+                alt="Vector1I2014"
+                class="react-saa-s-boilerplate-vector1"
+              />
+              <span class="react-saa-s-boilerplate-text661 BodyMediumsmall">
+                <span>Privacy Policy</span>
+              </span>
+              <span class="react-saa-s-boilerplate-text663 BodyMediumsmall">
+                <span>Terms of Use</span>
+              </span>
+              <div class="react-saa-s-boilerplate-frame53044">
+                <div class="react-saa-s-boilerplate-tablercopyright">
+                  <div class="react-saa-s-boilerplate-group1">
+                    <img
+                      src="public/external/vectori2014-2na.svg"
+                      alt="VectorI2014"
+                      class="react-saa-s-boilerplate-vector2"
+                    />
+                    <img
+                      src="public/external/vectori2014-cua9q.svg"
+                      alt="VectorI2014"
+                      class="react-saa-s-boilerplate-vector3"
+                    />
+                  </div>
+                </div>
+                <span class="react-saa-s-boilerplate-text665">
+                  <span>2024 All Rights Reserved</span>
+                </span>
+              </div>
+              <div class="react-saa-s-boilerplate-frame53043">
+                <div class="react-saa-s-boilerplate-frame53037">
+                  <div class="react-saa-s-boilerplate-primetwitter">
+                    <div class="react-saa-s-boilerplate-group2">
+                      <div class="react-saa-s-boilerplate-clippathgroup">
+                        <div class="react-saa-s-boilerplate-prime-twitter0">
+                          <img
+                            src="public/external/vectori2014-ou2s.svg"
+                            alt="VectorI2014"
+                            class="react-saa-s-boilerplate-vector4"
+                          />
+                        </div>
+                        <div class="react-saa-s-boilerplate-group3">
+                          <img
+                            src="public/external/vectori2014-21p.svg"
+                            alt="VectorI2014"
+                            class="react-saa-s-boilerplate-vector5"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="react-saa-s-boilerplate-frame53039">
+                  <img
+                    src="public/external/mdiyoutubei2014-aamg.svg"
+                    alt="mdiyoutubeI2014"
+                    class="react-saa-s-boilerplate-mdiyoutube"
+                  />
+                </div>
+                <div class="react-saa-s-boilerplate-frame53040">
+                  <img
+                    src="public/external/mdiinstagrami2014-92k.svg"
+                    alt="mdiinstagramI2014"
+                    class="react-saa-s-boilerplate-mdiinstagram"
+                  />
+                </div>
+                <img
+                  src="public/external/frame53041i2014-7nd.svg"
+                  alt="Frame53041I2014"
+                  class="react-saa-s-boilerplate-frame530411"
+                />
+                <div class="react-saa-s-boilerplate-frame530412">
+                  <img
+                    src="public/external/rifacebookfilli2014-y9qi.svg"
+                    alt="rifacebookfillI2014"
+                    class="react-saa-s-boilerplate-rifacebookfill"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="react-saa-s-boilerplate-group1000006011">
+              <span class="react-saa-s-boilerplate-text667 BodyMediumsmall">
+                <span>10111, Hornchurch, London, United Kingdom</span>
+              </span>
+              <div class="react-saa-s-boilerplate-frame1171275266">
+                <div class="react-saa-s-boilerplate-hng-boilerplate-logo2">
+                  <div class="react-saa-s-boilerplate-group42">
+                    <span class="react-saa-s-boilerplate-text669">
+                      <span>[ ]</span>
+                    </span>
+                    <img
+                      src="public/external/mdikettlei2014-l61o.svg"
+                      alt="mdikettleI2014"
+                      class="react-saa-s-boilerplate-mdikettle2"
+                    />
+                  </div>
+                  <span class="react-saa-s-boilerplate-text671 H4SemiBold">
+                    <span>HNG Boilerplate</span>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
